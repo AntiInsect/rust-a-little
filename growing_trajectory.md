@@ -7,9 +7,8 @@
 
 ## 5.27
 * [the different implementations of insertion sort](https://rust.cc/article?id=71a9a469-fdc0-4752-894f-d654e0251c4a)
+    * more details in the ***insertion_sort.rs*** 
 * [leanring the FnMut](https://doc.rust-lang.org/std/ops/trait.FnMut.html)
     * works as the function pointer
     * more capable with respect to reusing the function
-* [the Ord Trait](https://doc.rust-lang.org/std/cmp/trait.Ord.html)
-    * 
-
+    
