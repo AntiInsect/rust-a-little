@@ -12,3 +12,6 @@
     * works as the function pointer
     * more capable with respect to reusing the function
     
+## 5.28
+* [WebAssembly In Action](https://www.youtube.com/watch?v=DKHuEkmsx3M)
+    * Interesting Intro Video

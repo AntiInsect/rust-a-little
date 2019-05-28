@@ -18,3 +18,5 @@
     * further Rust doc and more underlying details
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
     * Rust macros fully explained 
+* [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
+    * the combination of Rust and Wasm
