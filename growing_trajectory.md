@@ -14,3 +14,7 @@
 ## 5.28
 * [WebAssembly In Action](https://www.youtube.com/watch?v=DKHuEkmsx3M)
     * Interesting Intro Video
+    
+## 5.29
+* [New Edition Info](https://doc.rust-lang.org/edition-guide/introduction.html)
+    * the **?** operator for raising error
