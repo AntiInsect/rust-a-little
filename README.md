@@ -20,3 +20,6 @@
     * Rust macros fully explained 
 * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
     * the combination of Rust and Wasm
+* [Rust Edition Guide](https://doc.rust-lang.org/edition-guide/rust-2018/error-handling-and-panics/the-question-mark-operator-for-easier-error-handling.html)
+    * the edition info about Rust release
+    
