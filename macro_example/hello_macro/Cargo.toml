@@ -1,0 +1,7 @@
+[package]
+name = "hello_macro"
+version = "0.1.0"
+authors = ["AntiInsect <wangshsh2@shanghaitech.edu.cn>"]
+edition = "2018"
+
+[dependencies]

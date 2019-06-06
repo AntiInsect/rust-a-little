@@ -203,8 +203,3 @@ $RECYCLE.BIN/
 
 
 # others (for customized change)
-main.rs
-Cargo.toml
-target/
-Cargo.lock
-mytest/
