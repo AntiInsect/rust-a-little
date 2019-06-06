@@ -11,15 +11,15 @@
 * [Rust Force](https://rustforce.net/)
     * overall info about Rust
 * [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
-    * learn through bunch of examples 
+    * learn through bunch of examples
 * [Rust Official Website](https://www.rust-lang.org/learn)
-    * the standard Rust doc 
+    * the standard Rust doc
 * [Rust Reference](https://doc.rust-lang.org/1.3.0/reference.html#numbers)
     * further Rust doc and more underlying details
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
-    * Rust macros fully explained 
+    * Rust macros fully explained
+    * Some Rust Compilation Intro
 * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
     * the combination of Rust and Wasm
 * [Rust Edition Guide](https://doc.rust-lang.org/edition-guide/rust-2018/error-handling-and-panics/the-question-mark-operator-for-easier-error-handling.html)
     * the edition info about Rust release
-    

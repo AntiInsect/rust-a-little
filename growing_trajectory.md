@@ -6,15 +6,21 @@
 
 ## 5.27
 * [the different implementations of insertion sort](https://rust.cc/article?id=71a9a469-fdc0-4752-894f-d654e0251c4a)
-    * more details in the ***insertion_sort.rs*** 
+    * more details in the ***insertion_sort.rs***
 * [leanring the FnMut](https://doc.rust-lang.org/std/ops/trait.FnMut.html)
     * works as the function pointer
     * more capable with respect to reusing the function
-    
+
 ## 5.28
 * [WebAssembly In Action](https://www.youtube.com/watch?v=DKHuEkmsx3M)
     * Interesting Intro Video
-    
+
 ## 5.29
 * [New Edition Info](https://doc.rust-lang.org/edition-guide/introduction.html)
     * the **?** operator for raising error
+
+## 6.5
+* [A Practical Intro to Macros in Rust](https://danielkeep.github.io/practical-intro-to-macros.html)
+* [Difference between Keywords and Identifiers](https://techdifferences.com/difference-between-keyword-and-identifier.html)
+	* macro processing in Rust happens after the construction of the AST -- syntax extension
+* [The Offical Explain about Macro](https://doc.rust-lang.org/1.30.0/book/2018-edition/appendix-04-macros.html)

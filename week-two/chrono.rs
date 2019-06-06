@@ -1,6 +1,5 @@
 use std::fmt;
 
-
 struct CompoundTime {
     year: usize,
     month: usize,
@@ -21,20 +20,35 @@ macro_rules! reduce {
 
 impl CompoundTime {
     fn new(year: usize, month: usize, day: usize, hour: usize, min: usize, sec: usize) -> Self {
-        CompoundTime { year, month, day, hour, min, sec }
+        CompoundTime {
+            year,
+            month,
+            day,
+            hour,
+            min,
+            sec,
+        }
     }
 
     fn rearrange(&mut self) {
-        reduce!(self, (sec, min, 60), (min, hour, 60),
-                      (hour, day, 24), (day, month, 30),
-                      (month, year, 12));
+        reduce!(
+            self,
+            (sec, min, 60),
+            (min, hour, 60),
+            (hour, day, 24),
+            (day, month, 30),
+            (month, year, 12)
+        );
     }
 }
 
 impl fmt::Display for CompoundTime {
     fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
-        write!(f, "{}year {}month {}day {}hour {}min {}sec",
-               self.year, self.month, self.day, self.hour, self.min, self.sec)
+        write!(
+            f,
+            "{}year {}month {}day {}hour {}min {}sec",
+            self.year, self.month, self.day, self.hour, self.min, self.sec
+        )
     }
 }
 
