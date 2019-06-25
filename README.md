@@ -1,10 +1,6 @@
 # Rust a Little
 * This is a repo that keeps tracks of my learning trajectory of rust learning.
 
-### Content
-* There will be a growing file which records my everyday rust exercise and learning.
-* Also a file containing all detailed resources.
-
 ### Main Resource
 * [Rust Community](https://rust.cc/)
     * everyday news and interesting project both for fun and practice
