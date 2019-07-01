@@ -201,6 +201,5 @@ $RECYCLE.BIN/
 *.lnk
 .idea/
 
-
 # others (for customized change)
-macro_example
+rust-playground/
