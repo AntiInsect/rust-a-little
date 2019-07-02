@@ -1,21 +1,35 @@
 # Rust a Little
 * This is a repo that keeps tracks of my learning trajectory of rust learning.
 
-### Main Resource
+## Daily Check
 * [Rust Community](https://rust.cc/)
-    * everyday news and interesting project both for fun and practice
-* [Rust Force](https://rustforce.net/)
-    * overall info about Rust
-* [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
-    * learn through bunch of examples
+* [Rust User Forum](https://users.rust-lang.org)
+
+## Useful Website
 * [Rust Official Website](https://www.rust-lang.org/learn)
-    * the standard Rust doc
-* [Rust Reference](https://doc.rust-lang.org/1.3.0/reference.html#numbers)
-    * further Rust doc and more underlying details
+* [Rust Force](https://rustforce.net/)
+* [Rust Reference](https://doc.rust-lang.org/1.3.0/reference.html)
+* [Rust Force](https://rustforce.net)
+
+## Offical Online
+* [Rust Edition Guide](https://doc.rust-lang.org/edition-guide/introduction.html)
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
-    * Rust macros fully explained
-    * Some Rust Compilation Intro
+* [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
+
+## Book
+* [Hands-On Data Structures and Algorithms with Rust](https://www.amazon.com/Hands-Data-Structures-Algorithms-Rust/dp/178899552X)
+* [Rust in Action](https://livebook.manning.com/#!/book/rust-in-action/welcome/v-9/)
+
+## Blog
+* [Hao Chen](http://gradebot.org/doc/ipur/preface.html)
+* [Rust Programming Language Blog](https://blog.rust-lang.org/)
+* [wayslog](http://wayslog.com/)
+
+## Application
 * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
-    * the combination of Rust and Wasm
-* [Rust Edition Guide](https://doc.rust-lang.org/edition-guide/rust-2018/error-handling-and-panics/the-question-mark-operator-for-easier-error-handling.html)
-    * the edition info about Rust release
+* [Writing a Compiler in Rust](http://thume.ca/2019/04/18/writing-a-compiler-in-rust/)
+
+## Exercise
+* [Leetcode](https://leetcode.com)
+* [Exercism](https://exercism.io)
+* [Codeforces](https://codeforces.com/)
