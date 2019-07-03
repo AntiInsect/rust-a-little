@@ -1,5 +1,5 @@
 # Rust a Little
-* This is a repo that keeps tracks of my learning trajectory of rust learning.
+* This is a repo that keeps tracks of my learning trajectory of rust programming language.
 
 ## Daily Check
 * [Rust Community](https://rust.cc/)
@@ -24,6 +24,7 @@
 * [Hao Chen](http://gradebot.org/doc/ipur/preface.html)
 * [Rust Programming Language Blog](https://blog.rust-lang.org/)
 * [wayslog](http://wayslog.com/)
+* [Learn Rust with too many linkedlist](https://rust-unofficial.github.io/too-many-lists/index.html)
 
 ## Application
 * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
