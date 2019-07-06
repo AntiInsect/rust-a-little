@@ -22,6 +22,7 @@
 
 ## Blog
 * [Hao Chen](http://gradebot.org/doc/ipur/preface.html)
+* [Nora Codes](https://nora.codes/)
 * [Rust Programming Language Blog](https://blog.rust-lang.org/)
 * [wayslog](http://wayslog.com/)
 * [Learn Rust with too many linkedlist](https://rust-unofficial.github.io/too-many-lists/index.html)
