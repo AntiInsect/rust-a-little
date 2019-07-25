@@ -1,5 +1,4 @@
-# Rust a Little
-* This is a repo that keeps tracks of my learning trajectory of rust programming language.
+# Useful Resources
 
 ## Daily Check
 * [Rust Community](https://rust.cc/)
